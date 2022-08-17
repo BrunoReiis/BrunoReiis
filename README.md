@@ -16,13 +16,13 @@
 <p align="left">
   <a href="bruno.reiis15@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=Link-DO-SEU-GMAIL" /></a>
-  <p>bruno.reiis15@gmail.com</p>
+  <p align="left">bruno.reiis15@gmail.com</p>
 
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-  <p>I don't have one yet</p>
+  <p align="left">I don't have one yet</p>
   
   <a href="https://www.instagram.com/bruno.dreis/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/bruno.dreis/"/></a>
-  <p>bruno.dreis</p>
+  <p align="left">bruno.dreis</p>
 </p>  
