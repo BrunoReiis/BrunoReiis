@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 What i'm learning: <strong>I'm learning about Java, JavaScript, HTML, CSS, Angular, C#, MySql and Photoshop</strong>
+  🦄 What i'm learning: <strong>I'm learning about Java, JavaScript, React, HTML, CSS, Angular, C#, MySql and Photoshop</strong>
 </p>
  
 <p align="left">
