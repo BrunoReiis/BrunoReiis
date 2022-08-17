@@ -13,8 +13,7 @@
   💌 Contact: ⤵️
 </p>
 
-<p align="left">
-  
+<p>
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
   <p>I don't have one yet</p>
