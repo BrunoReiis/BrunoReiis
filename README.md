@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello, my name is Bruno Reis, I am 17 years old, and <strong>currently I want to know a little about each area</strong>.<br>
+  Hi!, my name is Bruno Reis, I am 17 years old, and <strong>currently I want to know a little about each area</strong>.<br>
   I'm training some projects and taking some React classes on the internet and I'm studying at <strong>Etec Professor Horácio Augusto da Silveira in the Systems Development course</strong>
 </p>
 
@@ -23,6 +23,6 @@
   <p>bruno.dreis</p>
     <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-    <p>bruno.reiis15@gmai.com</p>  
+    <p>bruno.reiis15@gmail.com</p>  
   </div>
 </p>  
