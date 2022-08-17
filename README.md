@@ -8,7 +8,7 @@
 <p align="left">
   🦄 What i'm learning: <strong>I'm learning about Java, JavaScript, HTML, CSS, Angular, C#, MySql and Photoshop</strong>
 </p>
-
+ 
 <p align="left">
   💌 Contact: ⤵️
 </p>
@@ -26,3 +26,6 @@
     <p>bruno.reiis15@gmail.com</p>  
   </div>
 </p>  
+
+<div style="display: inline_block"><br>
+  <img align="center" heigh="120" width="250" src="https://66.media.tumblr.com/9f17e0618d2bd802983fc0410b455909/cc7c2f9bfeab9a91-1f/s400x600/e6a9747251ec7103d3de1497bea6a62d9a279a46.gif">
