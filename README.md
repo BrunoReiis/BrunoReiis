@@ -1,31 +1,44 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<h2 align="center"> 
+  < -- Hi! my name is <strong>Bruno Reis</strong> -->
+</h2>
 
-<p align="left"> 
-  Hi!, my name is Bruno Reis, I am 17 years old, and <strong>currently I want to know a little about each area</strong>.<br>
-  I'm training some projects and taking some React and Python classes on the internet and I'm studying at <strong>Etec Professor Horácio Augusto da Silveira in the Systems Development course</strong>
+<p align="left">
+  I am 17 years old, and <strong>currently I want to know a little about each area</strong>.<br>
+  I'm training some projects and taking some React and Python classes on the internet and I'm studying at <strong>Etec Professor Horácio Augusto da Silveira in the Systems Development course.</strong>
+</p>
+
+<p align="center"> 
+  -------------------------------------------------------------------------------------
 </p>
 
 <p align="left">
-  🦄 What i'm learning: <strong>I'm learning about Java, JavaScript, React, Python, HTML, CSS, Angular, C#, MySql and Photoshop</strong>
-</p>
- 
-<p align="left">
-  💌 Contact: ⤵️
+  🦄 What i'm learning: <strong>I'm learning about React, JavaScript, TypeSript, HTML, CSS, NodeJS, Git, Python, Angular, C#, MySql, Photoshop.</strong>
 </p>
 
-<p>
-  <div>
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-    <p>i don't have one yet</p>
-  <a href="https://www.instagram.com/bruno.dreis/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/bruno.dreis/"/></a>
-  <p>bruno.dreis</p>
-    <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-    <p>bruno.reiis15@gmail.com</p>  
-  </div>
-</p>  
+<div align="center" valign="top"><br>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+</div><br>
 
-<div style="display: inline_block"><br>
-  <img align="center" heigh="120" width="250" src="https://66.media.tumblr.com/9f17e0618d2bd802983fc0410b455909/cc7c2f9bfeab9a91-1f/s400x600/e6a9747251ec7103d3de1497bea6a62d9a279a46.gif">
+<div align="center">
+  <a href="https://github.com/BrunoReiis">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoReiis&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoReiis&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<div align="center"> 
+  <a href="https://instagram.com/bruno.dreis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:bruno.reiis15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div
+  
