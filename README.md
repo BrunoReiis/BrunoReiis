@@ -2,11 +2,11 @@
 
 <p align="left"> 
   Hi!, my name is Bruno Reis, I am 17 years old, and <strong>currently I want to know a little about each area</strong>.<br>
-  I'm training some projects and taking some React classes on the internet and I'm studying at <strong>Etec Professor Horácio Augusto da Silveira in the Systems Development course</strong>
+  I'm training some projects and taking some React and Python classes on the internet and I'm studying at <strong>Etec Professor Horácio Augusto da Silveira in the Systems Development course</strong>
 </p>
 
 <p align="left">
-  🦄 What i'm learning: <strong>I'm learning about Java, JavaScript, React, HTML, CSS, Angular, C#, MySql and Photoshop</strong>
+  🦄 What i'm learning: <strong>I'm learning about Java, JavaScript, React, Python, HTML, CSS, Angular, C#, MySql and Photoshop</strong>
 </p>
  
 <p align="left">
