@@ -4,7 +4,7 @@
 
 <p align="left">
   I am 17 years old, and <strong>currently I want to know a little about each area</strong>.<br>
-  I'm training some projects and taking some React and Python classes on the internet and I'm studying at <strong>Etec Professor Horácio Augusto da Silveira in the Systems Development course.</strong>
+  I'm training some projects and taking some React and Python classes on the internet while i'm studying at <strong>Etec Professor Horácio Augusto da Silveira in the Systems Development course.</strong>
 </p>
 
 <p align="center"> 
@@ -12,11 +12,12 @@
 </p>
 
 <p align="left">
-  🦄 What i'm learning: <strong>I'm learning about React, JavaScript, TypeSript, HTML, CSS, NodeJS, Git, Python, Angular, C#, MySql, Photoshop.</strong>
+  🦄 What i'm learning: <strong>I'm learning about React, Java, JavaScript, TypeSript, HTML, CSS, NodeJS, Git, Python, Angular, C#, MySql, Photoshop.</strong>
 </p>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
