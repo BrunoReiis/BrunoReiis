@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  🦄 What i'm learning: <strong>I'm learning about React, JavaScript, TypeSript, HTML, CSS, NodeJS, Git, Python, Angular, C#, MySq.</strong>
+  🦄 What i'm learning: <strong>I'm learning about React, JavaScript, TypeSript, HTML, CSS, NodeJS, Git, Python, Angular, C#.</strong>
 </p>
 
 <div align="center" valign="top"><br>
@@ -26,7 +26,6 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div><br>
 
 <div align="center">
