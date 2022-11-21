@@ -1,5 +1,5 @@
 <h2 align="center"> 
-  < -- Hi! my name is <strong>Bruno Reis</strong> -->
+  < ! -- Hi! my name is <strong>Bruno Reis</strong> -->
 </h2>
 
 <p align="left">
