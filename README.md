@@ -7,8 +7,11 @@
   I'm training some projects and taking some React and Python classes on the internet.
 </p>
 <p>
-   Formed on <strong>Etec Professor Horácio Augusto da Silveira at the Systems Development course.</strong>
+   Formed on <strong>Etec Professor Horácio Augusto da Silveira at the Systems Development course.</strong> <br>
+   React on <strong>Academind </strong> by <strong> Maximilian Schwarzmüller.</strong>
 </p>
+
+
 
 <p align="center"> 
   -------------------------------------------------------------------------------------
