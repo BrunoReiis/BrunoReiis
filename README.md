@@ -3,7 +3,7 @@
 </h2>
 
 <p align="left">
-  I am 18 years old, and <strong>currently I want to know a little about each area</strong>.<br>
+  I am 19 years old, and <strong>currently I want to know a little about each area</strong>.<br>
   I'm training some projects and taking some React and Python classes on the internet.
 </p>
 <p>
