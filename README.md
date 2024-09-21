@@ -4,7 +4,8 @@
 
 <p align="left">
   I am 19 years old, and <strong>currently I want to know a little about each area</strong>.<br>
-  I'm training some projects and taking some React and Python classes on the internet.
+  I'm training some projects and taking some Asp .Net MVC classes on the internet.
+  QA Tester in [Função Sistemas](https://www.funcao.com.br)
 </p>
 <p>
    Formed on <strong>Etec Professor Horácio Augusto da Silveira at the Systems Development course.</strong> <br>
