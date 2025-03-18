@@ -2,12 +2,12 @@
   < ! -- Hi! my name is <strong>Bruno Reis</strong> -->
 </h2>
 
-  I am 19 years old, and <strong>currently I want to know a little about each area</strong>.<br>
+  I am 20 years old, and <strong>currently I want to know a little about each area</strong>.<br>
   I'm training some projects and taking some Asp .Net MVC classes on the internet. <br>
   QA Tester in [@Função Sistemas](https://www.funcao.com.br)
 <p>
    Formed on <strong>Etec Professor Horácio Augusto da Silveira at the Systems Development course.</strong> <br>
-   Coursing <strong>Computer Science (4/8) in FMU.</strong> <br>
+   Coursing <strong>Computer Science (5/8) in FMU.</strong> <br>
    React on <strong>Academind </strong> by <strong> Maximilian Schwarzmüller.</strong>
 </p>
 
