@@ -8,7 +8,7 @@ Developer in [@Função Sistemas](https://www.funcao.com.br)
 
 <p>
    Formed on <strong>Etec Professor Horácio Augusto da Silveira at the Systems Development course.</strong> <br>
-   Coursing <strong>Computer Science (7/8) in FMU.</strong> <br>
+   Coursing <strong>Computer Science (8/8) in FMU.</strong> <br>
    React on <strong>Academind </strong> by <strong> Maximilian Schwarzmüller.</strong>
 </p>
 
